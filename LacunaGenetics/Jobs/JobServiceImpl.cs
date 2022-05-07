@@ -1,10 +1,7 @@
-﻿using System.Buffers.Text;
-using System.Collections;
-using System.Net.Http.Json;
-using System.Text;
+﻿using System.Net.Http.Json;
 using System.Text.Json;
 
-namespace LacunaGenetics.Job;
+namespace LacunaGenetics.Jobs;
 
 public class JobServiceImpl : IJobService
 {

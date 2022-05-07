@@ -1,5 +1,5 @@
 ﻿using LacunaGenetics.Auth;
-using LacunaGenetics.Job;
+using LacunaGenetics.Jobs;
 
 namespace LacunaGenetics;
 

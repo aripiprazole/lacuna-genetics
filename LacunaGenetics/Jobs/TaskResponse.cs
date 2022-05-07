@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace LacunaGenetics.Job;
+namespace LacunaGenetics.Jobs;
 
 public class TaskResponse
 {

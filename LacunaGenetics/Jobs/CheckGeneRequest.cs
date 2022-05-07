@@ -1,4 +1,4 @@
-﻿namespace LacunaGenetics.Job;
+﻿namespace LacunaGenetics.Jobs;
 
 public class CheckGeneRequest
 {
