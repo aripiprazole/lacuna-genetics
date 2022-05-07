@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacunaGenetics", "LacunaGenetics\LacunaGenetics.csproj", "{0C342C33-1EA2-4759-9FA5-67D37BA2E2EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{92DACD0C-6589-4ACC-90A7-DA9738CD7C78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{0C342C33-1EA2-4759-9FA5-67D37BA2E2EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C342C33-1EA2-4759-9FA5-67D37BA2E2EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C342C33-1EA2-4759-9FA5-67D37BA2E2EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92DACD0C-6589-4ACC-90A7-DA9738CD7C78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92DACD0C-6589-4ACC-90A7-DA9738CD7C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92DACD0C-6589-4ACC-90A7-DA9738CD7C78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92DACD0C-6589-4ACC-90A7-DA9738CD7C78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
